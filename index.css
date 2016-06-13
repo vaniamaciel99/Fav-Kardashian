@@ -1,0 +1,13 @@
+body{background-color: black;}
+h2{color: white;}
+h1{color:white;}
+head{color:white;}
+a{
+    text-decoration: none;
+    background-color: #E8E8E8 ;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    color: black;
+
+}
